@@ -6,7 +6,7 @@
   <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23563D7C.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL%20-%23563D7C.svg?&style=for-the-badge&logo=mysql&logoColor=blue"/>
+  <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL%20-%23563D7C.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
 Hello everyone, welcome to my github profile.
