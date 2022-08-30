@@ -1,6 +1,6 @@
 ### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=azhe403&style=for-the-badge" alt="viewer" />
 
-![Header Image]
+![Header Image](https://github.com/Baihaki123/Baihaki123/blob/main/fullstack.gif)
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Golang" src="https://img.shields.io/badge/-Go-45b8d8?style=for-the-badge&logo=go&logoColor=white" />
